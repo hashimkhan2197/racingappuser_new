@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "80683762940",
+    "firebase_url": "https://racing-app-b96b1.firebaseio.com",
+    "project_id": "racing-app-b96b1",
+    "storage_bucket": "racing-app-b96b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80683762940:android:79d030d92a9ef9f861c379",
+        "android_client_info": {
+          "package_name": "com.smartersvision.racingappuser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "80683762940-3c53k5td88u0qjau6epq5nvu42pdvllt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCwwlKyj6U0dcD1jhXhlGq4NpmdGd4JHU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "80683762940-3c53k5td88u0qjau6epq5nvu42pdvllt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
